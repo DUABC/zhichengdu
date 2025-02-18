@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at the Artificial Intelligence Department, RUC.
-I am advised by Professor Zihe Wang.
-Previously, I was an undergraduate student in computer science and technology at Central South University.
+I am a third-year PhD student at the [Artificial Intelligence Department, RUC](http://ai.ruc.edu.cn/).
+I am advised by Professor [Zihe Wang](https://gsai.ruc.edu.cn/wangzihe).
+Previously, I was an undergraduate student in computer science and technology at [Central South University](https://cse.csu.edu.cn/).
 
 A data-driven personal website
 ======
