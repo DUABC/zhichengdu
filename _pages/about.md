@@ -12,4 +12,4 @@ I am advised by Professor [Zihe Wang](https://gsai.ruc.edu.cn/wangzihe).
 Previously, I was an undergraduate student in computer science and technology at [Central South University](https://cse.csu.edu.cn/).
 
 I am interested in EconCS and Multi-Agent System. 
-My current research focuses on information design, with particular emphasis on equilibrium analysis in competitive information design games.
+My current research focuses on information design, with particular emphasis on equilibrium characterization in competitive information design games.
