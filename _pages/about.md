@@ -13,3 +13,5 @@ Previously, I was an undergraduate student in computer science and technology at
 
 I am interested in EconCS and Multi-Agent System. 
 My current research focuses on information design, with particular emphasis on equilibrium characterization in competitive information design games.
+
+Feel free to email me at duzhicheng@ruc.edu.cn.
