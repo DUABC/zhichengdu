@@ -1,5 +1,5 @@
 ---
-title: "1Competitive Information Design with Asymmetric Senders"
+title: "Competitive Information Design with Asymmetric Senders"
 collection: publications
 category: manuscripts
 permalink: https://papers.ssrn.com/abstract=4861024
