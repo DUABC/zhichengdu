@@ -15,3 +15,4 @@ I am interested in EconCS and Multi-Agent System.
 My current research focuses on information design, with particular emphasis on equilibrium characterization in competitive information design games.
 
 Feel free to email me at duzhicheng@ruc.edu.cn.
+Here is my [CV](https://duabc.github.io/zhichengdu/files/CV.pdf)
