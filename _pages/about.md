@@ -16,7 +16,7 @@ My current research focuses on **information design**, with particular emphasis 
 
 
 Feel free to email me at duzhicheng@ruc.edu.cn.
-Here is my [CV](https://duabc.github.io/zhichengdu/files/CV.pdf).
+Here is my [CV](https://duabc.github.io/zhichengdu/files/CV-20260226.pdf).
 
 [**News!**] I am currently visiting Prof. [Yingkai Li](https://yingkai-li.github.io/) at the Department of Economics, National University of Singapore (NUS), for six months (Sept.2025 - Mar.2026). 
 Feel free to reach out if you're in Singapore.
