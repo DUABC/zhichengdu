@@ -20,3 +20,5 @@ Here is my [CV](https://duabc.github.io/zhichengdu/files/CV-20260226.pdf).
 
 [**News!**] I am currently visiting Prof. [Yingkai Li](https://yingkai-li.github.io/) at the Department of Economics, National University of Singapore (NUS), for six months (Sept.2025 - Mar.2026). 
 Feel free to reach out if you're in Singapore.
+
+[For theoretical works:] I feel honored to work with [Zihe Wang](http://ai.ruc.edu.cn/academicfaculty/szdwn/wzh/index.htm), [Wei Tang](https://wtang.org/), [Hu Fu](http://simecv.sufe.edu.cn/page.aspx?id=26), [Yingkai Li](https://yingkai-li.github.io/), [Boli Xu](https://www.bolixu.com/), [Jiahua Wu](https://wu-jiahua.github.io/), and [Yanwei Sun](https://yanwei-sun.github.io/).
