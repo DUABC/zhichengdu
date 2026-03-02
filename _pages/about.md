@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a fourth-year PhD student at the [Artificial Intelligence Department, RUC](http://ai.ruc.edu.cn/).
-I am advised by Prof. [Zihe Wang]([https://gsai.ruc.edu.cn/wangzihe](http://ai.ruc.edu.cn/academicfaculty/szdwn/wzh/index.htm)).
+I am advised by Prof. [Zihe Wang](http://ai.ruc.edu.cn/academicfaculty/szdwn/wzh/index.htm).
 Previously, I was an undergraduate student in computer science at [Central South University](https://cse.csu.edu.cn/).
 
 I am interested in EconCS and Multi-Agent System. 
