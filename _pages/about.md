@@ -18,6 +18,8 @@ My current research focuses on **information design**, with particular emphasis 
 Feel free to email me at duzhicheng@ruc.edu.cn.
 Here is my [CV](https://duabc.github.io/zhichengdu/files/CV-20260226.pdf).
 
+[**News!**] In June 2026, I joined the Huawei Taylor Lab as a Research Intern, focusing on mechanism design research.
+
 [**News!**] I visited Prof. [Yingkai Li](https://yingkai-li.github.io/) at the Department of Economics, National University of Singapore (NUS), for six months (Sept.2025 - Mar.2026). 
 
 [**For theoretical works**] I feel honored to work with [Zihe Wang](http://ai.ruc.edu.cn/academicfaculty/szdwn/wzh/index.htm), [Wei Tang](https://wtang.org/), [Hu Fu](http://simecv.sufe.edu.cn/page.aspx?id=26), [Yingkai Li](https://yingkai-li.github.io/), [Boli Xu](https://www.bolixu.com/), [Jiahua Wu](https://wu-jiahua.github.io/), and [Yanwei Sun](https://yanwei-sun.github.io/).
