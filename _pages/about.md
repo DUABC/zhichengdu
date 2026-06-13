@@ -14,9 +14,10 @@ Previously, I was an undergraduate student in computer science at [Central South
 I am interested in EconCS and Multi-Agent Systems. 
 My current research focuses on **information design**, with particular emphasis on competitive information design games.
 
-
 Feel free to email me at duzhicheng@ruc.edu.cn.
 Here is my [CV](https://duabc.github.io/zhichengdu/files/CV-20260226.pdf).
+
+---
 
 [**News!**] I will attend EC'26 in Rome this July. I look forward to meeting everyone and exchanging ideas there!
 
