@@ -18,6 +18,8 @@ My current research focuses on **information design**, with particular emphasis 
 Feel free to email me at duzhicheng@ruc.edu.cn.
 Here is my [CV](https://duabc.github.io/zhichengdu/files/CV-20260226.pdf).
 
+[**News!**] I will attend EC'26 in Rome this July. I look forward to meeting everyone and exchanging ideas there!
+
 [**News!**] In June 2026, I joined the Huawei Taylor Lab as a Research Intern, focusing on mechanism design research.
 
 [**News!**] I visited Prof. [Yingkai Li](https://yingkai-li.github.io/) at the Department of Economics, National University of Singapore (NUS), for six months (Sept.2025 - Mar.2026). 
