@@ -19,6 +19,8 @@ Here is my [CV](https://duabc.github.io/zhichengdu/files/CV-20260226.pdf).
 
 ---
 
+# News
+
 [**News!**] I will attend EC'26 in Rome this July. I look forward to meeting everyone and exchanging ideas there!
 
 [**News!**] In June 2026, I joined the Huawei Taylor Lab as a Research Intern, focusing on mechanism design research.
