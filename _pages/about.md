@@ -21,12 +21,14 @@ Here is my [CV](https://duabc.github.io/zhichengdu/files/CV-20260226.pdf).
 
 # News
 
-[**News!**] I will attend EC'26 in Rome this July. I look forward to meeting everyone and exchanging ideas there!
+1. I will attend EC'26 in Rome this July. I look forward to meeting everyone and exchanging ideas there!
 
-[**News!**] In June 2026, I joined the Huawei Taylor Lab as a Research Intern, focusing on mechanism design research.
+2. In June 2026, I joined the Huawei Taylor Lab as a Research Intern, focusing on mechanism design research.
 
-[**News!**] I visited Prof. [Yingkai Li](https://yingkai-li.github.io/) at the Department of Economics, National University of Singapore (NUS), for six months (Sept.2025 - Mar.2026). 
+3. I visited Prof. [Yingkai Li](https://yingkai-li.github.io/) at the Department of Economics, National University of Singapore (NUS), for six months (Sept.2025 - Mar.2026). 
 
 ---
 
-[**For theoretical works**] I feel honored to work with [Zihe Wang](http://ai.ruc.edu.cn/academicfaculty/szdwn/wzh/index.htm), [Wei Tang](https://wtang.org/), [Hu Fu](http://simecv.sufe.edu.cn/page.aspx?id=26), [Yingkai Li](https://yingkai-li.github.io/), [Boli Xu](https://www.bolixu.com/), [Jiahua Wu](https://wu-jiahua.github.io/), and [Yanwei Sun](https://yanwei-sun.github.io/).
+# Coauthors
+
+I feel honored to work with [Zihe Wang](http://ai.ruc.edu.cn/academicfaculty/szdwn/wzh/index.htm), [Wei Tang](https://wtang.org/), [Hu Fu](http://simecv.sufe.edu.cn/page.aspx?id=26), [Yingkai Li](https://yingkai-li.github.io/), [Boli Xu](https://www.bolixu.com/), [Jiahua Wu](https://wu-jiahua.github.io/), and [Yanwei Sun](https://yanwei-sun.github.io/).
