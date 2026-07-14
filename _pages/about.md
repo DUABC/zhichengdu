@@ -16,6 +16,7 @@ My current research focuses on **information design**, with particular emphasis 
 
 Feel free to email me at duzhicheng@ruc.edu.cn.
 Here is my [CV](https://duabc.github.io/zhichengdu/files/CV-20260226.pdf).
+I will be on the job market later this year and am seeking postdoctoral opportunities in Operations Research and Operations Management.
 
 ---
 
