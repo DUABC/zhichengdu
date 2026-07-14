@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at the [Artificial Intelligence Department, RUC](http://ai.ruc.edu.cn/).
+I am a fourth-year PhD student at the [Artificial Intelligence Department, Renmin University of China](http://ai.ruc.edu.cn/).
 I am advised by Prof. [Zihe Wang](http://ai.ruc.edu.cn/academicfaculty/szdwn/wzh/index.htm).
 Previously, I was an undergraduate student in computer science at [Central South University](https://cse.csu.edu.cn/).
 
