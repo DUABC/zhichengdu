@@ -11,8 +11,8 @@ I am a fourth-year PhD student at the [Artificial Intelligence Department, Renmi
 I am advised by Prof. [Zihe Wang](http://ai.ruc.edu.cn/academicfaculty/szdwn/wzh/index.htm).
 Previously, I was an undergraduate student in computer science at [Central South University (CSU)](https://cse.csu.edu.cn/).
 
-I am interested in EconCS and Multi-Agent Systems. 
-My current research focuses on **information design**, with particular emphasis on competitive information design games.
+Broadly, I am interested in decision-making problems at the intersection of computer science, economics, and operations research.
+Recently, my research has focused on **information design**, with particular emphasis on competitive information design games.
 
 Feel free to email me at duzhicheng@ruc.edu.cn.
 Here is my [CV](https://duabc.github.io/zhichengdu/files/CV-20260226.pdf).
