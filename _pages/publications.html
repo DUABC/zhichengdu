@@ -20,8 +20,9 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        {% if category[0] == "working" or category[0] == "note" %}
-          <h1>{{ category[1].title }}</h1><hr />
+        {% if category[0] == "conference" %}
+        {% elsif category[0] == "working" or category[0] == "note" %}
+          <h1 class="publication-section-title">{{ category[1].title }}</h1><hr />
         {% else %}
           <h2>{{ category[1].title }}</h2><hr />
         {% endif %}
@@ -35,7 +36,6 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
 
 
 
