@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-<hr class="publication-title-rule" />
-
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
@@ -24,7 +22,8 @@ author_profile: true
       {% unless title_shown %}
         {% if category[0] == "conference" %}
         {% elsif category[0] == "working" or category[0] == "note" %}
-          <hr /><h1 class="publication-section-title">{{ category[1].title }}</h1>
+          <hr />
+          <h1>{{ category[1].title }}</h1>
         {% else %}
           <h2>{{ category[1].title }}</h2><hr />
         {% endif %}
@@ -38,4 +37,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
