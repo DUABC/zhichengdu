@@ -36,13 +36,41 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.paperurl %}
-        <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a> 
+        <span class="publication-title-hover">
+          <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>
+          {% if post.abstract or post.keywords %}
+            <span class="publication-popover" role="tooltip">
+              {% if post.abstract %}
+                <span class="publication-popover__label">Abstract</span>
+                <span class="publication-popover__text">{{ post.abstract }}</span>
+              {% endif %}
+              {% if post.keywords %}
+                <span class="publication-popover__label">Keywords</span>
+                <span class="publication-popover__text">{{ post.keywords }}</span>
+              {% endif %}
+            </span>
+          {% endif %}
+        </span>
 <!--         <a href="{{ base_path }}{{ post.url }}" rel="permalink">
           <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
           <span class="sr-only">Permalink</span>
         </a> -->
       {% else %}
-        <a href="{{ post.url }}" rel="permalink">{{ title }}</a>
+        <span class="publication-title-hover">
+          <a href="{{ post.url }}" rel="permalink">{{ title }}</a>
+          {% if post.abstract or post.keywords %}
+            <span class="publication-popover" role="tooltip">
+              {% if post.abstract %}
+                <span class="publication-popover__label">Abstract</span>
+                <span class="publication-popover__text">{{ post.abstract }}</span>
+              {% endif %}
+              {% if post.keywords %}
+                <span class="publication-popover__label">Keywords</span>
+                <span class="publication-popover__text">{{ post.keywords }}</span>
+              {% endif %}
+            </span>
+          {% endif %}
+        </span>
       {% endif %}
     </h2>
     
