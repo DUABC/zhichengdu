@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at the [Artificial Intelligence Department, Renmin University of China](http://ai.ruc.edu.cn/).
+I am a fourth-year PhD student at the [Artificial Intelligence Department, Renmin University of China (RUC)](http://ai.ruc.edu.cn/).
 I am advised by Prof. [Zihe Wang](http://ai.ruc.edu.cn/academicfaculty/szdwn/wzh/index.htm).
-Previously, I was an undergraduate student in computer science at [Central South University](https://cse.csu.edu.cn/).
+Previously, I was an undergraduate student in computer science at [Central South University (CSU)](https://cse.csu.edu.cn/).
 
 I am interested in EconCS and Multi-Agent Systems. 
 My current research focuses on **information design**, with particular emphasis on competitive information design games.
@@ -26,7 +26,7 @@ I will be on the job market later this year and am seeking postdoctoral opportun
 
 2. In June 2026, I joined the Huawei Taylor Lab as a Research Intern, focusing on mechanism design research.
 
-3. I visited Prof. [Yingkai Li](https://yingkai-li.github.io/) at the [Department of Economics, National University of Singapore](https://fass.nus.edu.sg/ecs/) (NUS), for six months (Sept.2025 - Mar.2026). 
+3. I visited Prof. [Yingkai Li](https://yingkai-li.github.io/) at the [Department of Economics, National University of Singapore (NUS)](https://fass.nus.edu.sg/ecs/), for six months (Sept.2025 - Mar.2026). 
 
 ---
 
