@@ -22,11 +22,13 @@ I will be on the job market later this year and am seeking postdoctoral opportun
 
 # News
 
-1. I will attend [EC'26](https://ec26.sigecom.org/) in Rome this July. I look forward to meeting everyone and exchanging ideas there!
+1. My two papers have been accepted to WINE'26. If you are interested, please visit the [Publications](/publications/) page. I look forward to seeing everyone in Hong Kong this November.
 
-2. In June 2026, I joined the Huawei Taylor Lab as a Research Intern, focusing on mechanism design research.
+2. I will attend [EC'26](https://ec26.sigecom.org/) in Rome this July. I look forward to meeting everyone and exchanging ideas there!
 
-3. I visited Prof. [Yingkai Li](https://yingkai-li.github.io/) at the [Department of Economics, National University of Singapore (NUS)](https://fass.nus.edu.sg/ecs/), for six months (Sept.2025 - Mar.2026). 
+3. In June 2026, I joined the Huawei Taylor Lab as a Research Intern, focusing on mechanism design research.
+
+4. I visited Prof. [Yingkai Li](https://yingkai-li.github.io/) at the [Department of Economics, National University of Singapore (NUS)](https://fass.nus.edu.sg/ecs/), for six months (Sept.2025 - Mar.2026).
 
 ---
 
