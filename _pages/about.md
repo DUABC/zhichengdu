@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at the [Artificial Intelligence Department, Renmin University of China (RUC)](http://ai.ruc.edu.cn/).
+I am a fifth-year PhD student at the [Artificial Intelligence Department, Renmin University of China (RUC)](http://ai.ruc.edu.cn/).
 I am advised by Prof. [Zihe Wang](http://ai.ruc.edu.cn/academicfaculty/szdwn/wzh/index.htm).
 Previously, I was an undergraduate student in computer science at [Central South University (CSU)](https://cse.csu.edu.cn/).
 
@@ -22,7 +22,7 @@ I will be on the job market later this year and am seeking postdoctoral opportun
 
 # News
 
-1. My two papers have been accepted to WINE'26. If you are interested, please visit the [Publications](https://duabc.github.io/zhichengdu/publications/) page. I look forward to seeing everyone in Hong Kong this November.
+1. My two papers have been accepted to [WINE'26](https://wine2026conf.github.io/). If you are interested, please visit the [Publications](https://duabc.github.io/zhichengdu/publications/) page. I look forward to seeing everyone in Hong Kong this November.
 
 2. I will attend [EC'26](https://ec26.sigecom.org/) in Rome this July. I look forward to meeting everyone and exchanging ideas there!
 
