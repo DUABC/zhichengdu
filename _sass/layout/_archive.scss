@@ -74,6 +74,23 @@
   }
 }
 
+.archive__item-venue {
+  margin: 0 0 0.35em;
+  line-height: 1;
+}
+
+.archive__item-venue-badge {
+  display: inline-block;
+  padding: 0.3em 0.75em;
+  color: #fff;
+  font-size: $type-size-7;
+  font-weight: bold;
+  line-height: 1.3;
+  background-color: #b000ad;
+  border-radius: 4px;
+  box-shadow: $box-shadow;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
