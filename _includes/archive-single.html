@@ -56,7 +56,12 @@
           <p> {{ post.type }}, {{ post.venue }} </p>
         {% elsif post.collection == 'publications' %}
           {% if post.venue %}
-            <p class="archive__item-venue"><span class="archive__item-venue-badge">{{ post.venue }}</span></p>
+            <p class="archive__item-venue">
+              <span class="archive__item-venue-badge">{{ post.venue }}</span>
+              {% if post.date %}
+                <time class="archive__item-venue-badge archive__item-date-badge" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m" }}</time>
+              {% endif %}
+            </p>
           {% endif %}
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>

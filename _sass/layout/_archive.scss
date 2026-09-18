@@ -75,6 +75,10 @@
 }
 
 .archive__item-venue {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5em;
   margin: 0 0 0.35em;
   line-height: 1;
 }
@@ -86,9 +90,16 @@
   font-size: $type-size-7;
   font-weight: bold;
   line-height: 1.3;
-  background-color: #b000ad;
   border-radius: 4px;
   box-shadow: $box-shadow;
+}
+
+.archive__item-venue-badge {
+  background-color: #b000ad;
+}
+
+.archive__item-date-badge {
+  background-color: #2f7f93;
 }
 
 .archive__item-teaser {
