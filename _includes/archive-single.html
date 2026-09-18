@@ -61,6 +61,9 @@
               {% if post.date %}
                 <time class="archive__item-venue-badge archive__item-date-badge" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m" }}</time>
               {% endif %}
+              {% if post.publication_status %}
+                <span class="archive__item-venue-badge archive__item-status-badge">{{ post.publication_status }}</span>
+              {% endif %}
             </p>
           {% endif %}
         {% elsif post.date %}
