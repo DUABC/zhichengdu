@@ -22,9 +22,9 @@ I will be on the job market later this year and am seeking postdoctoral opportun
 
 # News
 
-1. My two papers have been accepted to [WINE'26](https://wine2026conf.github.io/). If you are interested, please visit the [Publications](https://duabc.github.io/zhichengdu/publications/) page. I look forward to seeing everyone in Hong Kong this November.
+1. My paper, [Algorithmic Information Design for Searchers with Uncertain Alternatives](https://duabc.github.io/zhichengdu/files/Pandora_Box_Information_Design.pdf), was selected as the Best Student Paper at [WINE'26](https://wine2026conf.github.io/).
 
-2. I will attend [EC'26](https://ec26.sigecom.org/) in Rome this July. I look forward to meeting everyone and exchanging ideas there!
+2. My two papers have been accepted to [WINE'26](https://wine2026conf.github.io/). If you are interested, please visit the [Publications](https://duabc.github.io/zhichengdu/publications/) page. I look forward to seeing everyone in Hong Kong this November.
 
 3. In June 2026, I joined the Huawei Taylor Lab as a Research Intern, focusing on mechanism design research.
 
