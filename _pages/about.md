@@ -15,8 +15,14 @@ Broadly, I am interested in decision-making problems at the intersection of comp
 Recently, my research has focused on **information design**, with particular emphasis on competitive information design games.
 
 Feel free to email me at duzhicheng@ruc.edu.cn.
-Here is my [CV](https://duabc.github.io/zhichengdu/files/Resumes_20260716.pdf).
+Here is my [CV](https://duabc.github.io/zhichengdu/files/Zhicheng_Du_CV.pdf).
 I will be on the job market later this year and am seeking postdoctoral opportunities in OR/OM.
+
+---
+
+# Awards
+
+- WINE 2026 Best Student Paper
 
 ---
 
