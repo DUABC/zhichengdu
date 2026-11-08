@@ -40,4 +40,4 @@ I will be on the job market later this year and am seeking postdoctoral opportun
 
 # Coauthors
 
-I feel honored to work with [Zihe Wang](http://ai.ruc.edu.cn/academicfaculty/szdwn/wzh/index.htm), [Wei Tang](https://wtang.org/), [Hu Fu](http://simecv.sufe.edu.cn/page.aspx?id=26), [Yingkai Li](https://yingkai-li.github.io/), [Boli Xu](https://www.bolixu.com/), [Jiahua Wu](https://wu-jiahua.github.io/), and [Yanwei Sun](https://yanwei-sun.github.io/).
+I feel honored to work with the following coauthors, listed in order of first collaboration: [Zihe Wang](http://ai.ruc.edu.cn/academicfaculty/szdwn/wzh/index.htm), [Wei Tang](https://wtang.org/), [Hu Fu](http://simecv.sufe.edu.cn/page.aspx?id=26), [Yingkai Li](https://yingkai-li.github.io/), [Boli Xu](https://www.bolixu.com/), [Jiahua Wu](https://wu-jiahua.github.io/), [Yanwei Sun](https://yanwei-sun.github.io/), and [Pinyan Lu](http://pinyanlu.com/).
