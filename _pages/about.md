@@ -16,7 +16,7 @@ Recently, my research has focused on **information design**, with particular emp
 
 Feel free to email me at duzhicheng@ruc.edu.cn.
 Here is my [CV](https://duabc.github.io/zhichengdu/files/Zhicheng_Du_CV.pdf).
-I will be on the job market later this year and am seeking postdoctoral opportunities in OR/OM.
+I will be on the job market later this year and am seeking postdoctoral opportunities in CS/OR/OM.
 
 ---
 
