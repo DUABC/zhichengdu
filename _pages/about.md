@@ -32,7 +32,7 @@ I will be on the job market later this year and am seeking postdoctoral opportun
 
 2. My two papers have been accepted to [WINE'26](https://wine2026conf.github.io/). If you are interested, please visit the [Publications](https://duabc.github.io/zhichengdu/publications/) page. I look forward to seeing everyone in Hong Kong this November.
 
-3. In June 2026, I joined the Huawei Taylor Lab as a Research Intern, focusing on mechanism design research.
+3. From June to November 2026, I worked as a Research Intern at the Huawei Taylor Lab, focusing on mechanism design research.
 
 4. I visited Prof. [Yingkai Li](https://yingkai-li.github.io/) at the [Department of Economics, National University of Singapore (NUS)](https://fass.nus.edu.sg/ecs/), for six months (Sept.2025 - Mar.2026).
 
